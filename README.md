@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xxKonstantinxx
 - 👀 I’m interested in Web Development, Ai and Machene Learning
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React, Node and Python
 - 💞️ I’m looking to collaborate on anythig
 
 <!---
